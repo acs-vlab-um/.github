@@ -1,7 +1,7 @@
 # Applied Computer Science vLab (acs-vlab-um)
 **Universitas Mercatorum — Corso di Laurea in Ingegneria Informatica (L-8)**
 
-Benvenuti nel repository ufficiale dell'**Applied Computer Science vLab**, il laboratorio virtuale dedicato allo sviluppo, alla manutenzione e all'evoluzione dei prototipi software realizzati nell'ambito delle tesi di laurea e dei progetti di ricerca applicata.
+Benvenuti nel repository ufficiale dell'**Applied Computer Science vLab** https://acs-vlab-um.github.io/, il laboratorio virtuale dedicato allo sviluppo, alla manutenzione e all'evoluzione dei prototipi software realizzati nell'ambito delle tesi di laurea e dei progetti di ricerca applicata.
 
 ### 🎯 La Nostra Missione
 Il laboratorio nasce per valorizzare il lavoro degli studenti, creando un ecosistema stabile e persistente che evita la dispersione dei risultati di tesi. Promuoviamo l'adozione di standard professionali di sviluppo — tra cui versionamento centralizzato, code review e documentazione rigorosa — integrando la ricerca con la didattica laboratoriale.
